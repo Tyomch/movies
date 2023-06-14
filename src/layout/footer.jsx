@@ -5,7 +5,7 @@ function Footer(){
         {new Date().getFullYear}
         <img src={require('../photos/trailer.png')} alt="#" width="100px" height="100px"/>
         <a href="#!" className="max grey-text text-lighten-4 right">
-          Kulesha K. 
+          Spirin A.
         </a>
       </div>
     </div>
